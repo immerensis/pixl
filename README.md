@@ -17,7 +17,7 @@ Note :  windows users must install gcc ( [easiest way to install gcc](https://co
 (execute the following commands in terminal)
 
 ```
-git clone https://codeberg.org/immerensis/pixl.git
+git clone https://github.com/immerensis/pixl.git
 ```
 
 then 
